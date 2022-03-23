@@ -8,7 +8,7 @@ Phase 1:  Build Queue System
 
 Implement a multiprocess queue system in `message_queue.py`. Split the processing `do_something` into multiple  process, and  return the finish time .
 
-\![/img/multiprocess_q.png]
+\![ ](/img/multiprocess_q.png)
 
 
 
