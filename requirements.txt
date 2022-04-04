@@ -1,5 +1,4 @@
-deepspeech~=0.9.3
+deepspeech~=0.9
 ipython~=8.2.0
 numpy~=1.22.3
-flake8
 pytest >= 4.0
