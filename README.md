@@ -14,5 +14,8 @@ Implement a multiprocess queue system in `message_queue.py`. Split the processin
 
 
 
-
 Phase 2:  Speech to Text
+
+Use DeepSpeech to convert speech to text in speech.py. Utilized concurrent module to achieve multiprocess of the speech conversion.
+
+![ ](/img/speech.png)
